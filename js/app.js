@@ -24,7 +24,7 @@ const COLORS={Applied:'#1F3A5F',Interview:'#F2A900',Offer:'#2A9D8F',Rejected:'#D
 const BADGE={Applied:'primary',Interview:'warning text-dark',Offer:'success',Rejected:'danger'};
 
 // ---------- Auth (simulated, hardcoded credentials) ----------
-const USERS=[{user:'student',pass:'ims566',name:'Aina Sofea'}];
+const USERS=[{user:'NurFatihah',pass:'abc123',name:'Nur Fatihah'}];
 const getUsers=()=>USERS.concat(JSON.parse(localStorage.getItem('it_users')||'[]')); // registered users persist in browser
 const session=()=>JSON.parse(sessionStorage.getItem('it_session')||'null');
 const logout=()=>{sessionStorage.removeItem('it_session');location.href='index.html'};
