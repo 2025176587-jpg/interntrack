@@ -1,8 +1,8 @@
 # InternTrack – Internship Application Tracker
 IMS566 Advanced Web Design Development and Content Management – Individual Assignment
 
-**Live site:** https://YOUR-USERNAME.github.io/interntrack/
-**Repository:** https://github.com/YOUR-USERNAME/interntrack
+**Live site:** https://2025176587-jpg.github.io/interntrack/
+**Repository:** https://github.com/2025176587-jpg/interntrack
 
 ## Description
 A small web application that helps students track internship applications, interviews and offers, and browse partner companies.
